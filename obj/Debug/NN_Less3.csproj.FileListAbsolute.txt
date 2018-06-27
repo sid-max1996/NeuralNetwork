@@ -1,0 +1,33 @@
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Debug\NN_Less3.exe.config
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Debug\NN_Less3.exe
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Debug\NN_Less3.pdb
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csprojResolveAssemblyReference.cache
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Properties.Resources.resources
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csproj.GenerateResource.Cache
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.exe
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.pdb
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form2.resources
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form1.resources
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\bin\Debug\NN_Less3.exe.config
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.exe
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.pdb
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\bin\Debug\NN_Less3.exe
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\bin\Debug\NN_Less3.pdb
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csprojResolveAssemblyReference.cache
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form1.resources
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form2.resources
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Properties.Resources.resources
+C:\Users\ПАВЕЛ\Desktop\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csproj.GenerateResource.Cache
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form3.resources
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Debug\NN_Less3.exe.config
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Debug\NN_Less3.exe
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Debug\NN_Less3.pdb
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csprojAssemblyReference.cache
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form1.resources
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form2.resources
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Form3.resources
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.Properties.Resources.resources
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csproj.GenerateResource.cache
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.exe
+D:\Учеба\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Debug\NN_Less3.pdb

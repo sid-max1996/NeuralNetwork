@@ -1,0 +1,10 @@
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Release\NN_Less3.exe.config
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Release\NN_Less3.exe
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\bin\Release\NN_Less3.pdb
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.Form1.resources
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.Form2.resources
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.Properties.Resources.resources
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.csproj.GenerateResource.Cache
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.exe
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.pdb
+D:\4 курс\Нейронки\NN_Less3\NN_Less3\obj\Release\NN_Less3.csprojResolveAssemblyReference.cache
